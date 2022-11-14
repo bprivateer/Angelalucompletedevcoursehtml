@@ -1,0 +1,44 @@
+body {
+  background-color: #F5D5AE;
+  font-family: sans-serif;
+
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #EF9A53;
+  border-width: 4px;
+  width: 7%
+}
+
+img {
+  height: 75px;
+  width: 75px;
+}
+
+h1 {
+  color: #C539B4;
+}
+
+h2 {
+  color: #C539B4;
+}
+
+h3 {
+  color: #C539B4;
+}
+
+table {
+  color: #852999;
+  border-color: #C539B4;
+}
+a {
+  color: white;
+}
+
+ul {
+  color: #EF9A53;
+}
+p {
+  color: #EF9A53;
+}
